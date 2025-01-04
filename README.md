@@ -26,7 +26,7 @@ Here, Qtt & Qt+1t+1 are present state & next state respectively. So, T flip-flop
  
 From the above characteristic table, we can directly write the next state equation as Q(t+1)=T′Q(t)+TQ(t)′ ⇒Q(t+1)=T⊕Q(t)
 
-**Procedure**
+**PROCEDURE**
 
 1.Type the program in Quartus software.
 
@@ -49,7 +49,7 @@ From the above characteristic table, we can directly write the next state equati
 ![image](https://github.com/user-attachments/assets/14376117-82c5-4d0f-ba6d-977eb8752c59)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 ![image](https://github.com/user-attachments/assets/92f0f7ff-6fc3-40be-b091-0cfa80e43c2a)
 
